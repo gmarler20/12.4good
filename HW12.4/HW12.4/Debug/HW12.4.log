@@ -1,0 +1,5 @@
+﻿  HW12.4.cpp
+c:\users\cathy\source\repos\hw12.4\hw12.4\hw12.4.cpp(17): warning C4715: 'isSorted<int>': not all control paths return a value
+c:\users\cathy\source\repos\hw12.4\hw12.4\hw12.4.cpp(17): warning C4715: 'isSorted<std::basic_string<char,std::char_traits<char>,std::allocator<char> > >': not all control paths return a value
+c:\users\cathy\source\repos\hw12.4\hw12.4\hw12.4.cpp(17): warning C4715: 'isSorted<double>': not all control paths return a value
+  HW12.4.vcxproj -> C:\Users\cathy\source\repos\HW12.4\Debug\HW12.4.exe
